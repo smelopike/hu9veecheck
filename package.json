@@ -1,0 +1,32 @@
+{
+  "name": "hu9veecheck",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smelopike/hu9veecheck.git"
+  },
+  "keywords": [
+    "hu9veecheck",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "smelopike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smelopike/hu9veecheck/issues"
+  },
+  "homepage": "https://github.com/smelopike/hu9veecheck#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "ftm-gas-convert": "1.0.0"
+  }
+}
